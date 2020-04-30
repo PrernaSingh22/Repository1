@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 60E0-81DF
+
+ Directory of C:\Users\prerna.singh\OneDrive - Epicor\Desktop\GitFolder
+
+05/01/2020  12:41 AM    <DIR>          .
+05/01/2020  12:41 AM    <DIR>          ..
+05/01/2020  12:41 AM                 0 Test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  41,270,681,600 bytes free
